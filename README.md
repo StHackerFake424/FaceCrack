@@ -69,6 +69,6 @@ $ ls
 [*_*] if you are confused how to use it, Please then go to my YouTube channel And see my tutorial.
 YouTube ChannelLink:
 https://www.youtube.com/HackerFake424
-[INFO] This Tool Made For Just To Add Default Button In your Termux Home Enjoy Now..
+[INFO] This Tool Made For Educational Purpose Only IAM Not Responsible Any Miss Use..
 [Tips] Please Do Not Mistake Installation Command !!!
 ```
